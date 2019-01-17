@@ -1,3 +1,3 @@
-##Уроки по ES6 Babel
+## Уроки по ES6 Babel
 
-###npm run watch
+### npm run watch
